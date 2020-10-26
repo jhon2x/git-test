@@ -7,4 +7,5 @@ body {
 div {
 	padding:20px;
 	margin: 10px 10px 10px 10px;
+	border:1px solid red;
 }
